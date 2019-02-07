@@ -79,7 +79,11 @@ console.log(nama);
 console.log(nama.size);
 
 // step github :
-// ketik git init
+// ketik git init (cuma sekali setelah buat, kalau modifikasi tidak perlu ketik lagi)
 // ketik git add .
 // ketik git commit -m "isi commit"
+// ketik git remote add origin https://....isi
 // ketik git push origin master
+
+// kalau kolaborasi 
+// ketik git clone "nama link"
