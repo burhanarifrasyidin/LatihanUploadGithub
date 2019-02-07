@@ -77,3 +77,9 @@ let nama = new Set();
 nama.add('Adi').add('Budi').add('Adi');
 console.log(nama);
 console.log(nama.size);
+
+// step github :
+// ketik git init
+// ketik git add .
+// ketik git commit -m "isi commit"
+// ketik git push origin master
